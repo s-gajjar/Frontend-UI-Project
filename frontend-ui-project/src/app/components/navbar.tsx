@@ -112,7 +112,7 @@ export const Navbar = () => {
                 </div>
                 <div>
                     <Image src="https://utfs.io/f/fa81be59-162a-4693-8213-7114985a5579-1qqwnp.png"
-                         alt="profile" className="w-8 h-8 rounded-full bg-blue-500"/>
+                         alt="profile" width="20" height="20" className="w-8 h-8 rounded-full bg-blue-500"/>
                 </div>
                 <div className="ml-3">
                     <DownArrowIcon/>

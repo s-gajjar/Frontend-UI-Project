@@ -395,7 +395,7 @@ export default function Home() {
 
                                     <div className="flex gap-12">
                                         <Image className="rounded-md h-8 w-9 justify-center items-center"
-                                             src="https://utfs.io/f/959a9baa-208c-42c9-805c-ceb8f61febb2-ci4r06.jpg" alt="imge"/>
+                                             src="https://utfs.io/f/959a9baa-208c-42c9-805c-ceb8f61febb2-ci4r06.jpg" width="20" height="20" alt="imge"/>
                                         <div
                                             className="flex justify-center items-center text-20 text-logo_txt">Atlassian
                                         </div>
@@ -566,7 +566,7 @@ export default function Home() {
                                 <div className="flex">
                                     <div className="flex justify-center items-center">
                                         <Image src="https://utfs.io/f/0d3a8757-a69f-4172-ae40-dd923c1d6947-jlo1ag.jpeg"
-                                             alt="profile" className="w-10 h-10 rounded-full bg-blue-500"/>
+                                             width="20" height="20" alt="profile" className="w-10 h-10 rounded-full bg-blue-500"/>
                                     </div>
                                     <div className="ml-16px">
                                         <div className="text-16">
