@@ -560,7 +560,7 @@ export default function Home() {
 
                         <div className="shadow-xl rounded-md p-6">
                             <div className="font-inter text-20">
-                                "A quote from a Atlassian"
+                                &quot;A quote from a Atlassian&quot;
                             </div>
                             <div className="mt-48px">
                                 <div className="flex">
