@@ -71,7 +71,6 @@ const ApplicationIcon = () => {
         </svg>
     )
 }
-export default MessageIcon;
 
 export const Navbar = () => {
     return (
@@ -87,7 +86,7 @@ export const Navbar = () => {
                     <span className="ml-2">Jobs</span>
                 </div>
                 <div className="flex rounded-full justify-center items-center  ml-19">
-                    <div className="flex border border-grey rounded-full  shadow-2xl py-4">
+                    <div className="flex border border-grey rounded-full  shadow-inner py-4">
                         <button
                             className="flex justify-center items-center py-2 px-6 rounded-full bg-white text-gray-500 text-lg font-bold">
                             <MessageIcon/>
