@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from "next/image";
 
 const BriefcaseIcon = () => (
     <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="white">
@@ -110,7 +111,7 @@ export const Navbar = () => {
                     <BellIcon/>
                 </div>
                 <div>
-                    <img src="https://utfs.io/f/fa81be59-162a-4693-8213-7114985a5579-1qqwnp.png"
+                    <Image src="https://utfs.io/f/fa81be59-162a-4693-8213-7114985a5579-1qqwnp.png"
                          alt="profile" className="w-8 h-8 rounded-full bg-blue-500"/>
                 </div>
                 <div className="ml-3">
